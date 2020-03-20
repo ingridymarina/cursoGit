@@ -20,8 +20,11 @@ git log
 - Para baixar os arquivos do repositório
 git fetch
 
-- Para enviar os arquivo para o repositório
+- Para enviar os arquivo para o repositório (Sincorninazar com o repositório remoto)
 git push
 
 - Criar o README pelo Notepad++ com a extensão de md (Markdown)
 start notepad++ README.md
+
+- Atalho para criar um commit com a mensagem
+git commit -m "Mensagem"
