@@ -1,0 +1,27 @@
+- inicar o repostório
+git init
+
+- Configuração do Git
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name" 
+
+- Adicionar um documento
+git add personagens.txt 
+
+- Dar o commit no arquivo criado
+git commit personagens.txt
+
+- Verificar o status
+git status
+
+- Verificar as atividades 
+git log
+
+- Para baixar os arquivos do repositório
+git fetch
+
+- Para enviar os arquivo para o repositório
+git push
+
+- Criar o README pelo Notepad++ com a extensão de md (Markdown)
+start notepad++ README.md
