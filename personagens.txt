@@ -1,1 +1,1 @@
-Este é o primeiro arquivo criado para o curso git
+Este é o primeiro arquivo criado para o curso git - hehe
