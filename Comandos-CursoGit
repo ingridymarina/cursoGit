@@ -1,4 +1,4 @@
-- inicar o repostório
+- inicar o repostório vazio
 git init
 
 - Configuração do Git
@@ -42,3 +42,17 @@ git diff [path]
 
 - Mostra o que foi alterado no último commit
 git diff HEAD~1
+
+- Baixa um repositório já criado no github. Não precisa configurar o repositório
+git clone
+
+- Puxa as alterações do repositório remoto para manter o repositório
+git pull
+
+--------------------- COMANDOS CMD -------------------------
+
+- Apaga uma pasta através do cmd
+rmdir cursoGit /s /q
+
+- Renomeia uma pasta através do cmd
+ren cursoGit1 cursoGit
