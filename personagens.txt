@@ -1,2 +1,6 @@
 Este é o primeiro arquivo criado para o curso git - hehe
+<<<<<<< HEAD
 Adicionar a 2 linha
+=======
+Felipe
+>>>>>>> 0b2edaca6fa39ec02f56d2e172e8a59f5532a99c
