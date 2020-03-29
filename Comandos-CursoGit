@@ -49,6 +49,18 @@ git clone
 - Puxa as alterações do repositório remoto para manter o repositório
 git pull
 
+- Navegar pelo histório - Permite a visualização de aquiivos em algum commit anterior e faz alterações
+git checkout <commit> 
+
+- Para sair do histórico do commit 
+git checkout master
+
+- Desfaz todas as alterações que não estejam no Stage desde o último commit
+git checkout -- <path_or_file>
+
+- Desfaz as alterações desde o último commit incluindo o Stage
+git checkout HEAD -- <path_file>
+
 --------------------- COMANDOS CMD -------------------------
 
 - Apaga uma pasta através do cmd
